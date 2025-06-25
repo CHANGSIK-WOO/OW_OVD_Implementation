@@ -42,7 +42,7 @@ dependencies = [
     "mmengine>=0.7.1",
     "openmim",
     "mmcv",
-    'mmyolo @ git+https://github.com/onuralpszr/mmyolo.git',
+    'mmyolo @ git+https://github.com/CHANGSIK-WOO/mmyolo.git',
 
 ]
 
